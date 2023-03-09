@@ -1,0 +1,20 @@
+C:\Users\Max\source\repos\Discord RPC WPF\Discord RPC WPF\bin\Debug\netcoreapp3.1\Discord RPC WPF.exe
+C:\Users\Max\source\repos\Discord RPC WPF\Discord RPC WPF\bin\Debug\netcoreapp3.1\Discord RPC WPF.deps.json
+C:\Users\Max\source\repos\Discord RPC WPF\Discord RPC WPF\bin\Debug\netcoreapp3.1\Discord RPC WPF.runtimeconfig.json
+C:\Users\Max\source\repos\Discord RPC WPF\Discord RPC WPF\bin\Debug\netcoreapp3.1\Discord RPC WPF.runtimeconfig.dev.json
+C:\Users\Max\source\repos\Discord RPC WPF\Discord RPC WPF\bin\Debug\netcoreapp3.1\Discord RPC WPF.dll
+C:\Users\Max\source\repos\Discord RPC WPF\Discord RPC WPF\bin\Debug\netcoreapp3.1\Discord RPC WPF.pdb
+C:\Users\Max\source\repos\Discord RPC WPF\Discord RPC WPF\bin\Debug\netcoreapp3.1\DiscordRPC.dll
+C:\Users\Max\source\repos\Discord RPC WPF\Discord RPC WPF\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Max\source\repos\Discord RPC WPF\Discord RPC WPF\obj\Debug\netcoreapp3.1\Discord RPC WPF.csproj.AssemblyReference.cache
+C:\Users\Max\source\repos\Discord RPC WPF\Discord RPC WPF\obj\Debug\netcoreapp3.1\Discord_RPC_WPF.DiscordRPC.resources
+C:\Users\Max\source\repos\Discord RPC WPF\Discord RPC WPF\obj\Debug\netcoreapp3.1\Discord_RPC_WPF.Properties.Resources.resources
+C:\Users\Max\source\repos\Discord RPC WPF\Discord RPC WPF\obj\Debug\netcoreapp3.1\Discord RPC WPF.csproj.GenerateResource.cache
+C:\Users\Max\source\repos\Discord RPC WPF\Discord RPC WPF\obj\Debug\netcoreapp3.1\Discord RPC WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\source\repos\Discord RPC WPF\Discord RPC WPF\obj\Debug\netcoreapp3.1\Discord RPC WPF.AssemblyInfoInputs.cache
+C:\Users\Max\source\repos\Discord RPC WPF\Discord RPC WPF\obj\Debug\netcoreapp3.1\Discord RPC WPF.AssemblyInfo.cs
+C:\Users\Max\source\repos\Discord RPC WPF\Discord RPC WPF\obj\Debug\netcoreapp3.1\Discord RPC WPF.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\Discord RPC WPF\Discord RPC WPF\obj\Debug\netcoreapp3.1\Discord RPC WPF.csproj.CopyComplete
+C:\Users\Max\source\repos\Discord RPC WPF\Discord RPC WPF\obj\Debug\netcoreapp3.1\Discord RPC WPF.dll
+C:\Users\Max\source\repos\Discord RPC WPF\Discord RPC WPF\obj\Debug\netcoreapp3.1\Discord RPC WPF.pdb
+C:\Users\Max\source\repos\Discord RPC WPF\Discord RPC WPF\obj\Debug\netcoreapp3.1\Discord RPC WPF.genruntimeconfig.cache
