@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.IO;
 using System.Windows.Forms;
 using DiscordRPC;
 using DiscordRPC.Logging;
@@ -36,8 +30,8 @@ namespace Discord_RPC_WPF
 
         public DiscordRpcClient client;
         
-        void Initialze()
-        {
+        void Initialize()
+		{
 			/*
 	Create a Discord client
 	NOTE: 	If you are using Unity3D, you must use the full constructor and define
@@ -79,12 +73,33 @@ namespace Discord_RPC_WPF
 
         private void button1_Click(object sender, EventArgs e)
         {
-			Initialze();
+			Initialize();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
 			client.Dispose();
         }
+        
+        /*public static class ClientIdManager
+        {
+            private static string filePath = Path.Combine(Application.StartupPath, "clientid.txt");
+
+            public static void SaveClientId(string clientId)
+            {
+                File.WriteAllText(filePath, clientId);
+            }
+
+            public static string LoadClientId()
+            {
+                if (File.Exists(filePath))
+                {
+                    return File.ReadAllText(filePath);
+                }
+                return string.Empty;
+            }
+        }
+        */
+        
     }
 }
